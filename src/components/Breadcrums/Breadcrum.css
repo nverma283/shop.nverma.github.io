@@ -1,0 +1,11 @@
+/* this file is created by me this is and css of breadcrum*/
+.breadcrum{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    color: #5e5e5e;
+    font-size: 16px;
+    font-weight: 600;
+    margin: 60px 80px;
+    text-transform: capitalize;
+} 
